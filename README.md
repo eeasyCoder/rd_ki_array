@@ -1,0 +1,1 @@
+# rd_ki_array
